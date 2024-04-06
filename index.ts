@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let currency:any= {PAK:280,
     USD:1,
